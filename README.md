@@ -1,4 +1,4 @@
-📌 BUSINESS REQUIREMENT (Problem Statement)
+📌 BUSINESS REQUIREMENT 
 🎯 Objective
 The company wants to analyze investment performance across different asset types (Equity, Bond, Real Estate, Gold, Mutual Fund, Crypto) between 2015–2025 to:
 - Identify most beneficial and least beneficial assets
@@ -28,7 +28,7 @@ Columns used:
 - Market_Condition
 
 📌 CONCLUSION: Strategic Investment Performance & Risk Optimization
-Based on the analysis of investment data from 2015 to 2025, the study evaluated multiple asset classes including Equity, Bonds, Real Estate, Gold, Mutual Funds, and Crypto using key performance indicators such as ROI, Profit, Risk Score, Volatility, Liquidity, Market Conditions, and Cost Factors.
+Based on the analysis , the study evaluated multiple asset classes including Equity, Bonds, Real Estate, Gold, Mutual Funds, and Crypto using key performance indicators such as ROI, Profit, Risk Score, Volatility, Liquidity, Market Conditions, and Cost Factors.
 
 🔍 Key Findings
 - Equity and Mutual Funds emerged as the most balanced and beneficial assets, delivering consistently high ROI with moderate risk, especially over long holding periods.
